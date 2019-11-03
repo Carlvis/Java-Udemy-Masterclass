@@ -27,7 +27,7 @@
  * 	Create a new console project and call it SecondsAndMinutesChallenge
  */
 
-//Tim's Solution
+
 public class SecondsAndMinutesChallenge{
 
     private static final String INVALID_VALUE_MESSAGE = "Invalid value";  //delcaring a constant here.
@@ -77,30 +77,3 @@ public class SecondsAndMinutesChallenge{
     }
 }
 
-
-//my initial attempt
-//public class SecondsAndMinutesChallenge {
-//
-//
-//    public static void main(String[] args) {
-//
-//        getDurationString();
-//    }
-//
-//    public static String getDurationString(int minutes, int seconds){
-//    if(seconds > 59 || seconds < 0 || minutes < 0){
-//        System.out.println("Invalid value");
-//        return -1;
-//    }
-//
-//    minutes = seconds / 60;
-//    int hour = minutes / 60;
-//
-//    return
-//    }
-//
-//    public static int getDurationString(int seconds){
-//
-//    return
-//    }
-//}
