@@ -1,23 +1,19 @@
-public class MegaBytesConverter {
+public class MegaBytesConverter{
 
+    public static void printMegaBytesAndKiloBytes(int kiloBytes){
+        if(kiloBytes < 0){
+            System.out.println("Invalid Value");
+        }
+        int megaBytes = kiloBytes/1024;
+        int remainKilo = kiloBytes%1024;
+        System.out.println(kiloBytes + " KB = " + megaBytes + " MB and " + remainKilo + " KB");
+    }
 
-
-    public static void printMegaBytesAndKiloBytes(int kiloBytes) {
-    //The method should not return anything (void) and it needs to calculate the megabytes and remaining kilobytes from the kilobytes parameter.
-    // kiloBytes is 2500 it needs to print "2500 KB = 2 MB and 452 KB"
-   //TIP: 1 MB = 1024 KB
-     if(kiloBytes >= 0) {
-         int megaBytes = (kiloBytes / 1024);
-         int remainKiloB = (kiloBytes % 1024);
-         System.out.println(kiloBytes + " KB = " + megaBytes + " MB and " + remainKiloB + " KB");
-     }
-     else{
-         System.out.println("Invalid Value");
-     }
-
-
+    public static void main(String[] args) {
+        printMegaBytesAndKiloBytes(5000);
     }
 }
+
 
 
 /**

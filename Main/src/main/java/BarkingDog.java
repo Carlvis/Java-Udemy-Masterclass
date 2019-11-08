@@ -1,18 +1,15 @@
-public class BarkingDog {
+    public class BarkingDog {
 
-    public static boolean shouldWakeUp(boolean barking, int hourOfDay) {
-
-        if (hourOfDay < 0 || hourOfDay > 24) {
-            return false;
-        } else if (barking && hourOfDay < 8) {
-            return true;
-        } else if (barking && hourOfDay > 22) {
-            return true;
-        } else {
+        public static boolean shouldWakeUp(boolean barking, int hourOfDay) {
+            if (barking && hourOfDay >= 0 && hourOfDay <= 23) {
+                if (hourOfDay < 8 || hourOfDay > 22) {
+                    return true;
+                }
+                return false;
+            }
             return false;
         }
-    }
-    }
+}
     /**
      *
      We have a dog that likes to bark.  We need to wake up if the dog is barking at night!
