@@ -2,48 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73a59265-f731-4d2b-94c1-f3d5f4d5f2f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/CoffeeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/FortuneCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/GuessCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/HiLoLimited.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/KeepGuessing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/LittleQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/ModulusAnimation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/NumberGuess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/06-lesson/activities/katas/starter-code/CarlvisJonesU1M2L1PBD/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BarkingDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecimalComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EqualSumChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MegaBytesConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Primitives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SpeedConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TeenNumberChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/src/main/java/SecondsAndMinutesChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rsvp-service/src/main/java/com/trilogyed/rsvp/model/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rsvp-service/src/main/java/com/trilogyed/rsvp/model/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rsvp-service/src/main/java/com/trilogyed/rsvp/model/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rsvp-service/src/main/java/com/trilogyed/rsvp/service/RsvpService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rsvp-service/src/test/java/com/trilogyed/rsvp/service/RsvpServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/src/main/java/com/company/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/src/main/java/com/company/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/src/test/java/com/company/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/src/test/java/com/company/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/02-module/05-lesson-interfaces/code/interfaces/interfaces.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/03-module/02-lesson-maps/code/maps/maps.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/05-lesson-jdbctemplates/activities/in-class/starter-code/unit-tests-only/rec-coll-jdbctemplate-dao/src/main/java/com/company/reccolldao/dao/AlbumDaoJdbcTemplateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/05-lesson-jdbctemplates/activities/in-class/starter-code/unit-tests-only/rec-coll-jdbctemplate-dao/src/main/java/com/company/reccolldao/dao/AlbumDaoJdbcTemplateImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/05-lesson-jdbctemplates/activities/in-class/starter-code/unit-tests-only/rec-coll-jdbctemplate-dao/src/main/java/com/company/reccolldao/dao/TrackDaoJdbcTemplateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/05-lesson-jdbctemplates/activities/in-class/starter-code/unit-tests-only/rec-coll-jdbctemplate-dao/src/main/java/com/company/reccolldao/dao/TrackDaoJdbcTemplateImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/05-lesson-jdbctemplates/activities/in-class/starter-code/unit-tests-only/rec-coll-jdbctemplate-dao/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/05-lesson-jdbctemplates/activities/in-class/starter-code/unit-tests-only/rec-coll-jdbctemplate-dao/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/05-lesson-jdbctemplates/activities/in-class/starter-code/unit-tests-only/rec-coll-jdbctemplate-dao/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/05-lesson-jdbctemplates/activities/in-class/starter-code/unit-tests-only/rec-coll-jdbctemplate-dao/src/test/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/06-lesson-jpa/activities/in-class/simple_crm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/06-lesson-jpa/activities/in-class/simple_crm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/06-lesson-jpa/activities/in-class/simple_crm/src/main/java/com/company/crm/dao/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/06-lesson-jpa/activities/in-class/simple_crm/src/main/java/com/company/crm/dao/CustomerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/06-lesson-jpa/activities/in-class/simple_crm/src/main/java/com/company/crm/dto/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/06-lesson-jpa/activities/in-class/simple_crm/src/main/java/com/company/crm/dto/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/06-lesson-jpa/activities/in-class/simple_crm/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/06-lesson-jpa/activities/in-class/simple_crm/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/06-lesson-jpa/activities/in-class/simple_crm/src/test/java/com/company/crm/CrmApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../01-unit/05-module/06-lesson-jpa/activities/in-class/simple_crm/src/test/java/com/company/crm/CrmApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rsvp-service/src/main/java/com/trilogyed/rsvp/RsvpServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rsvp-service/src/main/java/com/trilogyed/rsvp/RsvpServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IntEqualityPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MinutesToYearDaysCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayingCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,39 +19,39 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Primitives.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="329" column="33" selection-start-line="329" selection-start-column="33" selection-end-line="329" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SpeedConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="79" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MegaBytesConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="120">
               <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IntEqualityPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PlayingCat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MinutesToYearDaysCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -97,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/BarkingDog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" selection-start-line="2" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="570">
+              <caret line="38" column="103" selection-start-line="38" selection-start-column="103" selection-end-line="38" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -107,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/DecimalComparator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" selection-start-line="2" selection-start-column="4" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -115,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/EqualSumChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="10" selection-start-column="3" selection-end-line="19" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -124,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TeenNumberChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
+            <state relative-caret-position="465">
               <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
             </state>
           </provider>
@@ -139,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="300">
+              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -182,6 +144,8 @@
         <option value="$PROJECT_DIR$/src/main/java/TeenNumberChecker.java" />
         <option value="$PROJECT_DIR$/src/main/java/LeapYear.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IntEqualityPrinter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PlayingCat.java" />
       </list>
     </option>
   </component>
@@ -192,17 +156,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/../SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="800" />
+    <option name="height" value="811" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -210,8 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,9 +196,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -305,52 +263,38 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="811" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14306152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20243205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.21327683" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.230226" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2294854" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32963988" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.21279556" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Primitives.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="329" column="33" selection-start-line="329" selection-start-column="33" selection-end-line="329" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SpeedConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="79" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -358,37 +302,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Primitives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4935">
+          <caret line="329" column="33" selection-start-line="329" selection-start-column="33" selection-end-line="329" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrintEqual.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/SpeedConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="79" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MegaBytesConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="120">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BarkingDog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" selection-start-line="2" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="570">
+          <caret line="38" column="103" selection-start-line="38" selection-start-column="103" selection-end-line="38" selection-end-column="103" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DecimalComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" selection-start-line="2" selection-start-column="4" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/EqualSumChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="10" selection-start-column="3" selection-end-line="19" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TeenNumberChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
+        <state relative-caret-position="465">
           <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
         </state>
       </provider>
@@ -402,8 +361,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="300">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IntEqualityPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PlayingCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MinutesToYearDaysCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>

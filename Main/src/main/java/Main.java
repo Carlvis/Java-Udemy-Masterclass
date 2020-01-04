@@ -18,6 +18,7 @@ public class Main {
         calculateScore();
         calcFeetAndInchesToCentimeters(7,5);
         calcFeetAndInchesToCentimeters(156);
+        IntEqualityPrinter.printEqual(1,2,4);
     }
 
     /**
@@ -69,6 +70,7 @@ public class Main {
            // double feetCalc = calcFeetAndInchesToCentimeters();
 
         }
+
 
 
 
